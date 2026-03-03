@@ -1,5 +1,7 @@
 class Tv {
   String marca
-  String Modelo
   int volume
-  int
+  int tamanho
+  int voltagem
+  int canal
+  
