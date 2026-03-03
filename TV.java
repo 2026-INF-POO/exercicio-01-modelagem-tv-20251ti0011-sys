@@ -18,7 +18,7 @@ class Tv {
   }
 
   int volume_diminuir(){
-     if (volume > 10){
+     if (volume > 1){
      volume--;
        }
      return volume;
