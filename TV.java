@@ -13,6 +13,10 @@ class Tv {
 
   }
 
+  void volume_diminuir(){
+
+  }
+
   void ligar() {
 
   }
